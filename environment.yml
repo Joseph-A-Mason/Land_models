@@ -1,0 +1,7 @@
+name: land_model
+channels:
+  - conda-forge
+dependencies:
+  - landlab
+  - matplotlib
+  - numpy
